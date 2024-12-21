@@ -1,0 +1,21 @@
+input{
+    width: 80px;
+    height: 70px;
+    border-radius: 15px;
+    margin: 10px;
+    border: 2px solid black;
+}
+.btn:hover{
+    border-color: blue;
+    cursor:pointer;
+}
+.btn{
+    background-color: brown;
+}
+.cal{
+    background-color: blue;
+    border-radius: 15px;
+    text-align: center;
+    border: 2px solid black;
+    width: 500px;
+}
